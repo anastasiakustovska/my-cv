@@ -1,0 +1,27 @@
+html{
+    scroll-behavior:smooth
+}
+
+body {
+    background-color: #d6b692;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contact__value {
+    display: flex;
+    justify-content: center;
+}
+
+.contact__value > * {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#profile--img {
+    display: flex;
+    justify-content: center;
+}
+
+#profile--img img {
+    border-radius: 5px;
+}
